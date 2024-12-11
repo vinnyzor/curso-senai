@@ -30,3 +30,5 @@ https://github.com/vinnyzor/curso-senai.git
 - [ ] B
 - [ ] C
 ---
+
+lembrei do comando: git status
